@@ -1,0 +1,13 @@
+# Ignore presentation files
+*.pptx
+*.ppt
+*.pptm
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Optional: ignore specific large files you don't want
+# dump.sql   # remove the # if you want to ignore SQL too
